@@ -1,2 +1,2 @@
 # Python
-Exercises &amp; projects in python
+Exercises &amp; projects with python
